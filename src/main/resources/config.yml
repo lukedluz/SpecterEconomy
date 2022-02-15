@@ -1,0 +1,27 @@
+MySQL:
+  enable: false
+  user: root
+  senha: Specter123
+  database: Specter
+  host: 127.0.0.1
+
+config:
+  top_size: 5
+  saldo_inicial: 30.0
+  titles:
+    enable: true
+nChat:
+  ativar: true
+  magnata_prefix: '§a[S. Bellamy]'
+  
+mensagens:
+  new_samuel: '§6[S. BELLAMY] §f@player §eé o novo S. BELLABY!'
+  top_list:
+    header:
+    - ''
+    - ' §e§lRANK DOS JOGADORES MAIS RICOS'
+    - ' §fAtualizado a cada 5 minutos'
+    - ''
+    value: ' §f@position§8.§f @player §8- §e@saldo'
+    footer:
+    - ''

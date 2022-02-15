@@ -1,0 +1,6 @@
+main: com.lucas.spectergold.Main
+name: SpecterGold
+version: 1.0
+author: [Specter]
+commands:
+  gold:
